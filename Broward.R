@@ -21,7 +21,7 @@ names(StateFIPS) <- "FL"
 CountyFIPS <- 011
 names(CountyFIPS) <- "Broward"
 
-apikey <- "336e3fb621e924285143c2d9e1abec0f019046f8"
+apikey <- "your api key here"
 totalPop <- "B02001_001E"
 whitePop <- "B02001_002E"
 blackPop <- "B02001_003E"
